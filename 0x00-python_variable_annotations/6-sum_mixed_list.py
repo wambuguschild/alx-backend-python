@@ -1,4 +1,4 @@
-#!/usr/bn/python3
+#!/usr/bin/env python3
 """
 Contains a function that takes a mixed list of integers and
 floats and returns the sum of all the numbers in the list as float

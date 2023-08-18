@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """A function that return values with the appropriate types"""
 from typing import Iterable, Sequence, Tuple, List
 

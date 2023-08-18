@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """A function that contains a su of floats"""
 
 from typing import List
