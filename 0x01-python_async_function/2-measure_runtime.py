@@ -1,4 +1,4 @@
-#!/usr/bin env python3
+#!/usr/bin/env python3
 """A method that measures the total execution time of
 a function"""
 import time
